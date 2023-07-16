@@ -1,2 +1,5 @@
 # Online_Examination_System_PHP
 The online examination system project developed using PHP and MySQL is a web-based application designed to facilitate the process of conducting objective exams over the internet.
+The online examination system allows users, typically examinees, to register for exams and obtain unique user credentials. These credentials are used to log in to the system and access the exam interface. Once logged in, the system presents the exam questions to the user, allowing them to submit their answers within a designated time limit.
+The application stores the submitted answers along with the corresponding user profile information in the MySQL database. After the exam duration ends, the system calculates the exam results based on predefined criteria, such as correct answers and negative marking (if applicable). The results can then be displayed to the users and stored for further analysis or record-keeping.
+Overall, the online examination system project using PHP and MySQL provides a convenient and efficient platform for conducting objective exams online, automating various exam-related tasks and streamlining the evaluation process.
